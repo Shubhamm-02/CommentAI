@@ -38,7 +38,7 @@ Clone the repository and install the backend and frontend requirements:
 pip install -r requirements.txt
 
 # Install Dashboard dependencies
-cd "SaaS dashboard landing page"
+cd "Frontend"
 npm install
 npm run build
 cd ..

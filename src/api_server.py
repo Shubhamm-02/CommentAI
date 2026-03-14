@@ -59,7 +59,7 @@ def get_history(limit: int = 10):
     ]
 
 # Serve the Vite Frontend Build
-dashboard_path = os.path.join(settings.BASE_DIR, "SaaS dashboard landing page", "dist")
+dashboard_path = os.path.join(settings.BASE_DIR, "Frontend", "dist")
 if os.path.exists(dashboard_path):
     app.mount("/", StaticFiles(directory=dashboard_path, html=True), name="dashboard")
 

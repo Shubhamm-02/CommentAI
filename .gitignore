@@ -15,9 +15,9 @@ __pycache__/
 *$py.class
 
 # Node Modules (Dashboard)
-SaaS dashboard landing page/node_modules/
+Frontend/node_modules/
 node_modules/
-SaaS dashboard landing page/dist/
+Frontend/dist/
 
 # OS/System Files
 .DS_Store
