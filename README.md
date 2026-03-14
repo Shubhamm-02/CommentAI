@@ -4,6 +4,9 @@ CommentAI is a completely free, automated AI agent that safely engages with post
 
 It also features a beautiful, local FastAPI + React web dashboard to monitor the agent's live activity!
 
+## 🎥 Demo Video
+See the CommentAI agent and dashboard in action here: **[Watch Demo on Google Drive](https://drive.google.com/drive/folders/1wv0e5_wMb_dQxdJdRs8zRPv5OMR9e1oC?usp=drive_link)**
+
 ## Core Features
 - 🧠 **Local LLM Engine**: Uses `llama3:8b` running on your local machine for high-quality, free generation.
 - 🛡️ **Advanced Anti-Spam Guardrails**: 
